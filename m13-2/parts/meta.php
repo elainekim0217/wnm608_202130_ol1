@@ -1,7 +1,7 @@
 
 <meta name="viewport" content="width=device-width">
 
-<base href="http://mioweb-test.com/aau/wnm608/catanzaro.michael/m13/">
+<base href="http://byelainekim.com/aau/wnm608/elainekim/final_website/">
 
 <link rel="stylesheet" href="lib/css/styleguide.css">
 <link rel="stylesheet" href="lib/css/gridsystem.css">
