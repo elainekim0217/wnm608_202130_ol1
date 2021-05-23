@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Fruit Store</title>
+	<title>E.Jewelry</title>
 
 	<?php include "parts/meta.php" ?>
 </head>
@@ -13,8 +13,8 @@
 
 
 
-	<div class="view-window hero" style="background-image:url(img/mountains02.jpg)">
-		<h1>Fruits</h1>
+	<div class="view-window hero" style="background-image:url(img/background.jpg)">
+		<h1>E.Jewelry</h1>
 	</div>
 
 	<div class="container pad" id="introduction">
@@ -22,12 +22,9 @@
 			<div class="grid">
 				<div class="col-xs-12 col-md-6 center-child">
 					<div style="max-width:75%">
-						<h2>The Fruit Store</h2>
-						<p>Looking for some fruit? <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, at.</span>
-						<span>Eius quas soluta nulla similique ratione! Nam recusandae porro sunt!</span>
-						<span>Magni natus sint cum reprehenderit iste maxime possimus architecto, quis!</span>
-						<span>Perspiciatis rem porro distinctio tempora architecto nulla nihil expedita, quod.</span>
-						<span>Facilis totam, nam, aliquam id iste eos quis illum consequatur.</span></p>
+						<h2>E.Jewelry</h2>
+						<span>Inspired by the natural beauty of California, E.jewelry brings joy and happiness to everyday life. </span>
+						<span>E.jewelry was created by E.Kim, a long-time resident of San Francisco and a nature lover who infuses her creations with the beauty of the natural world.</span>
 					</div>
 				</div>
 				<div class="col-xs-12 col-md-6">
@@ -70,6 +67,6 @@
 	</div>
 
 	<hr class="spacer large">
-	
+
 </body>
 </html>
