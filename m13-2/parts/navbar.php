@@ -3,7 +3,7 @@
 <header class="navbar">
 	<div class="container display-flex">
 		<div class="flex-stretch">
-			<h1><a href="index.php">Fruit Store</a></h1>
+			<h1><a href="index.php">E.Jewelry</a></h1>
 		</div>
 		<nav class="nav-flex">
 			<ul>

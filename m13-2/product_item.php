@@ -39,7 +39,7 @@ $thumbs = explode(",", $o->images);
          <div class="col-xs-12 col-md-7">
             <div class="card soft">
                <div class="product-main">
-                  <img src="images/store/<?= $o->main_image ?>" alt="">
+                  <img src="images/store/<?= $product->thumbnail ?>" alt="">
                </div>
                <div class="product-thumbs">
                <?php
@@ -107,6 +107,6 @@ $thumbs = explode(",", $o->images);
          <?php recommendedProducts($o->category,$o->id) ?>
       </div>
    </div>
-   
+
 </body>
 </html>

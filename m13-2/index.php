@@ -28,7 +28,7 @@
 					</div>
 				</div>
 				<div class="col-xs-12 col-md-6">
-					<img src="https://via.placeholder.com/600/f88/fff?text=Apples" alt="" class="image-cover">
+					<img src="images/store/basic.jpg" alt="" class="image-cover">
 				</div>
 			</div>
 		</div>
@@ -37,30 +37,24 @@
 	<hr class="spacer large">
 
 	<div class="container pad" id="categories">
-		<h2>Categories</h2>
+		<h2>Popular Items</h2>
 		<div class="grid gap xs-small md-large">
 			<div class="col-xs-6 col-md-3">
 				<figure>
-					<div class="image-circle"><img src="https://via.placeholder.com/400/f88/fff?text=Fruits" alt=""></div>
-					<figcaption>Fruits</figcaption>
+					<div class="image-circle"><img src="images/store/black-hair_thumb.jpg" alt=""></div>
+					<figcaption>Hair accessory</figcaption>
 				</figure>
 			</div>
 			<div class="col-xs-6 col-md-3">
 				<figure>
-					<div class="image-circle"><img src="https://via.placeholder.com/400/080/fff?text=Vegetables" alt=""></div>
-					<figcaption>Vegetables</figcaption>
+					<div class="image-circle"><img src="images/store/green_earrings_thumb.jpg" alt=""></div>
+					<figcaption>Earrings</figcaption>
 				</figure>
 			</div>
 			<div class="col-xs-6 col-md-3">
 				<figure>
-					<div class="image-circle"><img src="https://via.placeholder.com/400/88f/fff?text=Seafood" alt=""></div>
-					<figcaption>Seafood</figcaption>
-				</figure>
-			</div>
-			<div class="col-xs-6 col-md-3">
-				<figure>
-					<div class="image-circle"><img src="https://via.placeholder.com/400/f8f/fff?text=Poultry" alt=""></div>
-					<figcaption>Poultry</figcaption>
+					<div class="image-circle"><img src="images/store/two_ring_thumb.jpg" alt=""></div>
+					<figcaption>Rings</figcaption>
 				</figure>
 			</div>
 		</div>

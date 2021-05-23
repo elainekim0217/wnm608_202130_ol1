@@ -32,10 +32,16 @@ include_once "lib/php/functions.php";
         <button type="button" class="form-button js-filter" data-column="category" data-value="">All</button>
       </div>
       <div class="flex-none">
-        <button type="button" class="form-button js-filter" data-column="category" data-value="fruit">Fruit</button>
+        <button type="button" class="form-button js-filter" data-column="category" data-value="hair">Hair Accessory</button>
       </div>
       <div class="flex-none">
-        <button type="button" class="form-button js-filter" data-column="category" data-value="vegetable">Vegetables</button>
+        <button type="button" class="form-button js-filter" data-column="category" data-value="ring">Rings</button>
+      </div>
+      <div class="flex-none">
+        <button type="button" class="form-button js-filter" data-column="category" data-value="earring">Earrings</button>
+      </div>
+      <div class="flex-none">
+        <button type="button" class="form-button js-filter" data-column="category" data-value="necklace">Necklace</button>
       </div>
     </div>
     <div class="form-control">
@@ -54,6 +60,6 @@ include_once "lib/php/functions.php";
 
     <div><a href="admin">Product Admin</a></div>
   </div>
-  
+
 </body>
 </html>
