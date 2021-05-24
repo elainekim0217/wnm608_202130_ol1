@@ -1,13 +1,15 @@
 :root {
 	--color-body: #111;
-	--color-main: #5454bb;
-	--color-main-dark: #1c1c6f;
-	--color-main-light: #9292f3;
+	--color-main: #E5E5E5;
+	--color-main-dark: #909A6F;
+	--color-main-light: #D4B797;
+
+
 }
 
 body {
 	color: var(--color-body);
-	background-color: var(--color-neutral-light);
+	background-color: #fff;
 	padding-bottom: 6em;
 }
 

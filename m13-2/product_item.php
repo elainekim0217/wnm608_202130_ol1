@@ -55,7 +55,7 @@ $thumbs = explode(",", $o->images);
          <div class="col-xs-12 col-md-5">
             <form class="card soft flat" method="get" action="form_actions.php">
                <div class="card-section">
-                  <h2 class="product-title"><?= $o->title ?></h2>
+                  <h2 class="product-title"><?= $o->name ?></h2>
                   <div class="product-category"><?= $o->category ?></div>
                   <div class="display-flex">
                      <div class="product-description flex-stretch">

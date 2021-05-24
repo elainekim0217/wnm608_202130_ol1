@@ -28,7 +28,7 @@ $selectAmount = selectAmount($o->amount);
 return $r.<<<HTML
 <div class="display-flex card-section">
    <div class="flex-none product-thumbs">
-      <img src="images/store/$o->main_image">
+      <img src="images/store/$o->thumbnail">
    </div>
    <div class="flex-stretch">
       <div class="display-flex">
@@ -156,11 +156,11 @@ function productList($rows) {
 }
 
 function recommendedCategory($cat,$limit=3) {
-   $sql = "SELECT * FROM `products` WHERE `category`='$cat' ORDER BY `date_create` DESC LIMIT $limit";
+   $sql = "SELECT * FROM `products` WHERE `category`='$cat' ORDER BY `date_create` ASC LIMIT $limit";
    productList(getRows(makeConn(),$sql));
 }
 
 function recommendedProducts($cat,$id=0,$limit=3) {
-   $sql = "SELECT * FROM `products` WHERE `category`='$cat' AND `id`<>$id ORDER BY rand() DESC LIMIT $limit";
+   $sql = "SELECT * FROM `products` WHERE `category`='$cat' AND `id`<>$id ORDER BY rand() ASC LIMIT $limit";
    productList(getRows(makeConn(),$sql));
 }
