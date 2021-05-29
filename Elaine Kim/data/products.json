@@ -1,0 +1,20 @@
+[
+{"type":"header","version":"4.9.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"elainekimwnm806"},
+{"type":"table","name":"products","database":"elainekimwnm806","data":
+[
+{"id":"1","name":"h-hair accessory ","email":"","url":"","price":"10.00","category":"hair","date_create":"2021-04-25 22:25:20","date_modify":"2021-04-25 22:25:26","description":"h-hair accessory is very pretty","thumbnail":"h-hair_thumb.jpg","images":"h-hair_thumb1.jpg, h-hair_thumb2.jpg,h-hair_thumb3.jpg"},
+{"id":"2","name":"black-hair","email":"","url":"","price":"12.00","category":"hair","date_create":"2021-04-25 06:24:06","date_modify":"2021-04-25 06:24:06","description":"black-hair is very simple","thumbnail":"black-hair_thumb.jpg","images":"black-hair_thumb1.jpg,black-hair_thumb2.jpg,black-hair_thumb3.jpg"},
+{"id":"3","name":"two_ring","email":"","url":"","price":"18.00","category":"ring","date_create":"2021-04-25 06:25:07","date_modify":"2021-04-25 06:25:07","description":"the gold two rings","thumbnail":"two_ring_thumb.jpg","images":"two_ring_thumb1.jpg,two_ring_thumb2.jpg,two_ring_thumb3.jpg"},
+{"id":"4","name":"pearl_necklace","email":"","url":"","price":"20.00","category":"necklace","date_create":"2021-04-25 06:26:27","date_modify":"2021-04-25 06:26:27","description":"pearl_necklace is very pretty","thumbnail":"pearl_necklace_thumb.jpg","images":"pearl_necklace_thumb1.jpg,pearl_necklace_thumb2.jpg,pearl_necklace_thumb3.jpg"},
+{"id":"5","name":"gold_stone","email":"","url":"","price":"17.00","category":"necklace","date_create":"2021-04-25 06:27:21","date_modify":"2021-04-25 06:27:21","description":"the gold color is very gorgeous.","thumbnail":"gold_stone_thumb.jpg","images":"gold_stone_thumb1.jpg,gold_stone_thumb2.jpg,gold_stone_thumb3.jpg"},
+{"id":"6","name":"stone_earring","email":"","url":"","price":"13.00","category":"earring","date_create":"2021-04-25 06:28:30","date_modify":"2021-04-25 06:28:30","description":"the white stone_earring","thumbnail":"stone_earring_thumb.jpg","images":"stone_earring_thumb1.jpg,stone_earring_thumb2.jpg"},
+{"id":"7","name":"rose_earring","email":"","url":"","price":"13.00","category":"earring","date_create":"2021-04-25 06:29:10","date_modify":"2021-04-25 06:29:10","description":"The rose earrings.","thumbnail":"rose_earring_thumb.jpg","images":"rose_earring_thumb1.jpg"},
+{"id":"8","name":"pearl_hair","email":"","url":"","price":"8.00","category":"hair","date_create":"2021-04-25 06:29:43","date_modify":"2021-04-25 06:29:43","description":"The pearl hair accessory ","thumbnail":"pearl_hair_thumb.jpg","images":"pearl_hair_thumb1.jpg"},
+{"id":"9","name":"chain_ring","email":"","url":"","price":"8.00","category":"ring","date_create":"2021-04-25 06:30:20","date_modify":"2021-04-25 06:30:20","description":"The chain ring","thumbnail":"chain_ring_thumb.jpg","images":"chain_ring_thumb1.jpg"},
+{"id":"10","name":"green_earrings","email":"","url":"","price":"7.00","category":"earring","date_create":"2021-04-25 06:30:58","date_modify":"2021-04-25 06:30:58","description":"The green earrings","thumbnail":"green_earrings_thumb.jpg","images":"green_earrings_thumb1.jpg"},
+{"id":"11","name":"pearl_earrings","email":"","url":"","price":"7.00","category":"earring","date_create":"2021-04-25 06:31:52","date_modify":"2021-04-25 06:31:52","description":"The pearl earrings","thumbnail":"pearl_earrings_thumb.jpg","images":"pearl_earrings_thumb1.jpg"},
+{"id":"12","name":"silver_earrings","email":"","url":"","price":"8.00","category":"earring","date_create":"2021-04-25 06:32:35","date_modify":"2021-04-25 06:32:35","description":"The silver earrings","thumbnail":"silver_earrings_thumb.jpg","images":"silver_earrings_thumb1.jpg"}
+]
+}
+]
