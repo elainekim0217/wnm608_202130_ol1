@@ -39,21 +39,21 @@
 	<div class="container pad" id="categories">
 		<h2>Popular Items</h2>
 		<div class="grid gap xs-small md-large">
-			<div class="col-xs-6 col-md-3">
+			<div class="col-xs-6 col-md-4">
 				<figure>
-					<div class="image-circle"><img src="images/store/black-hair_thumb.jpg" alt=""></div>
+					<div class="image-circle"><a href="product_list.php"><img src="images/store/black-hair_thumb.jpg" alt=""></a></div>
 					<figcaption>Hair accessory</figcaption>
 				</figure>
 			</div>
-			<div class="col-xs-6 col-md-3">
+			<div class="col-xs-6 col-md-4">
 				<figure>
-					<div class="image-circle"><img src="images/store/green_earrings_thumb.jpg" alt=""></div>
+					<div class="image-circle"><a href="product_list.php"><img src="images/store/green_earrings_thumb.jpg" alt=""><a/></div>
 					<figcaption>Earrings</figcaption>
 				</figure>
 			</div>
-			<div class="col-xs-6 col-md-3">
+			<div class="col-xs-6 col-md-4">
 				<figure>
-					<div class="image-circle"><img src="images/store/two_ring_thumb.jpg" alt=""></div>
+					<div class="image-circle"><a href="product_list.php"><img src="images/store/two_ring_thumb.jpg" alt=""></a></div>
 					<figcaption>Rings</figcaption>
 				</figure>
 			</div>
